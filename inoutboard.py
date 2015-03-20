@@ -8,7 +8,7 @@ import requests
 import json
 import os
 
-API_KEY = 'VqxmF1tRVnFzGJpsg46AS19IHm5RJCM6'
+API_KEY = ''
 rssi = None
 threshold_off = -9
 threshold_on = 0
